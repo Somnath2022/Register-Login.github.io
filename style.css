@@ -1,0 +1,55 @@
+body {
+    background-color: grey;
+}
+
+div {
+
+    text-align: center;
+}
+
+img {
+    width: 150px;
+    height: 120px;
+
+}
+
+#btr {
+    width: 40%;
+    height: 25px;
+    color: white;
+    background-color: rgb(212, 133, 6);
+    border: 1px solid rgb(254, 215, 215);
+    border-radius: 9px;
+}
+
+input {
+    width: 60%;
+    height: 25px;
+    color: white;
+    border: 1px solid rgb(254, 215, 215);
+    border-radius: 9px;
+    background-color: rgb(229, 201, 147);
+
+}
+
+.container {
+    background-color: rgb(238, 238, 211);
+    width: 40%;
+
+    margin: 150px auto;
+    border-radius: 10px;
+
+
+
+}
+
+.go-next {
+    display: flex;
+    padding: 30px;
+    justify-content: center;
+    align-items: center;
+    margin: -45px 40px;
+    margin-left: 25px;
+    text-decoration: none;
+
+}
